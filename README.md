@@ -2,8 +2,6 @@
 # ADVTRAINS – realistic trains in Minetest!
 by orwell96 and contributors (see below)
 
-[![builds.sr.ht status](https://builds.sr.ht/~gpcf/advtrains/commits/.build.yml.svg)](https://builds.sr.ht/~gpcf/advtrains/commits/.build.yml?)
-
 For up-to-date information, visit <https://advtrains.de/>
 
 License of code: GNU AGPL version 3
