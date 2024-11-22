@@ -1,0 +1,2 @@
+# textdomain: advtrains_luaautomation
+Passive Component Naming Tool@n@nRight-click to name a passive component.=

@@ -1,0 +1,11 @@
+# textdomain: advtrains_line_automation
+Station Code=
+Station Name=
+Door Delay=
+Dep. Speed=
+Track=
+Stop Time=
+Door Side=
+Reverse train=
+Kick out passengers=
+Save=
