@@ -102,3 +102,26 @@ Passenger Wagon=Пассажирский вагон
 Box wagon=Крытый вагон
 Subway Passenger Wagon=Вагон метро
 Japanese Train Inter-Wagon Connection=Межвагонное соединение японского поезда
+
+Station Code=Код станции
+Station Name=Имя станции
+Door Delay=Задержка двери
+Dep. Speed=Скорость отпр.
+Track=Путь
+Stop Time=Время остановки
+Door Side=Половина двери
+Reverse train=Обратный поезд
+Kick out passengers=Высадить пассажиров
+Save=Сохранить
+
+Passive Component Naming Tool@n@nRight-click to name a passive component.=Инструмент переименования пассивных компонентов@n@nПКМ, чтобы переименовать пассивный компонент.
+
+Track=Путь
+Y-turnout=Y-разъезд
+3-way turnout=3-сторонний разъезд
+Perpendicular Diamond Crossing Track=Перпендикулярный алмазный перекресток
+90+Angle Diamond Crossing Track=90+ градусный алмазный перекресток
+Diagonal Diamond Crossing Track=Диагональный алмазный перекресток
+Unloading Track=Разгрузочный рельс
+Loading Track=Загрузочный рельс
+Detector Rail=Рельс-детектор
